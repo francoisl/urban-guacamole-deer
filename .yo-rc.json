@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fl.urbanguacdeer"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "monolith",
+    "baseName": "UGD",
+    "packageName": "fl.urbanguacdeer",
+    "packageFolder": "fl/urbanguacdeer",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MzExMDJlZGFhY2UxOGE1YTFiMTcwZmVkZDU2NmFiOWZiMzJjZDExMzEzMTM2ZWFkZGM3MDQwNGUxZmY2ZjVhZGNkMWFjMDViMDU4ZDhmYjM3ZDExMTRmMTAwNWY2M2Q5NmIyZTcwZjdkNzZhOGNlNmYxYWE0NjhlYzZmOWZjNjQ=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
